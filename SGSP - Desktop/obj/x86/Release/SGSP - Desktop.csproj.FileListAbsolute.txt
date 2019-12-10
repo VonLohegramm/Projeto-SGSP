@@ -1,0 +1,467 @@
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+E:\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+E:\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+F:\4 semestre\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+F:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+F:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+D:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+K:\4 semestre\Projeto II\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost-20170817T222655Z-001\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\pc\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\rafael.inacio\Desktop\sgsp_desktop localhost\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\rafael.inacio\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\Rafael\Desktop\SGSP_DESKTOP\sgsp_desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\AS2\SGSP\Desktop\Implementação\SGSP - Desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\pc\Desktop\AS2\SGSP\Desktop\Implementação\SGSP - Desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\AS2\SGSP\Desktop\Implementação\SGSP - Desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+C:\Users\pc\Desktop\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+K:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+F:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe.config
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.exe
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\SGSP - Desktop.pdb
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.DirectShow.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\AForge.Video.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Design.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MetroFramework.Fonts.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\Mono.Security.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\MySql.Data.DLL
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\x86\Release\itextsharp.xml
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csprojResolveAssemblyReference.cache
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEncaminharAtendimento.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastrarOutros.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroAluno.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroFuncionario.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroPerfil.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmCadastroUsuario.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmConsulta.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEmissaoAtendimento.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmEnviarNotificacao.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmOpcao.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmLogin.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmPrincipal.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSplashScreen.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmSobre.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.frmWebCam.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP___Desktop.Properties.Resources.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\x86\Release\SGSP - Desktop.csproj.GenerateResource.Cache

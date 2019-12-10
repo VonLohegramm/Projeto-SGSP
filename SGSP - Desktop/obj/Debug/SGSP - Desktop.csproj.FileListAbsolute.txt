@@ -1,0 +1,202 @@
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojResolveAssemblyReference.cache
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.Cache
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+E:\4 semestre\Projeto II\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojResolveAssemblyReference.cache
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.Cache
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.CoreCompileInputs.cache
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+G:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojResolveAssemblyReference.cache
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.Cache
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
+E:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.CoreCompileInputs.cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojResolveAssemblyReference.cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.Cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.CoreCompileInputs.cache
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+D:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojResolveAssemblyReference.cache
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.Cache
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+F:\4 semestre\sgsp desktop\SGSP - Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe.config
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.exe
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\SGSP - Desktop.pdb
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\AForge.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\AForge.Video.DirectShow.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\AForge.Video.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\itextsharp.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Design.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\MetroFramework.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\MetroFramework.Fonts.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\Mono.Security.dll
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\MySql.Data.DLL
+F:\Área de Trabalho\Desktop\SGSP - Desktop\bin\Debug\itextsharp.xml
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csprojAssemblyReference.cache
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEncaminharAtendimento.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastrarOutros.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroAluno.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroFuncionario.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroPerfil.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmCadastroUsuario.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmConsulta.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEmissaoAtendimento.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmEnviarNotificacao.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmOpcao.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmLogin.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmPrincipal.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSplashScreen.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmSobre.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.frmWebCam.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP___Desktop.Properties.Resources.resources
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.GenerateResource.cache
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.csproj.CopyComplete
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.exe
+F:\Área de Trabalho\Desktop\SGSP - Desktop\obj\Debug\SGSP - Desktop.pdb
